@@ -62,8 +62,9 @@ UML Diagram
 <img>![](C:/Users/Agarwal/Downloads/blogUml.drawio.png)
 
 # API Endpoints
-```json
-User
+
+```text
+   User
    POST: /user
    POST: /user/login
    GET: /users
@@ -92,6 +93,4 @@ Comments
    POST: /articles/{article-slug}/comments
    GET: /articles/{article-slug}/comments
    DELETE: /articles/{article-slug}/comments/{commentId} -> delete a comment
-
-
 ```
