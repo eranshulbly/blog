@@ -64,7 +64,7 @@ UML Diagram
 # API Endpoints
 
 ```text
-   User
+User
    POST: /user
    POST: /user/login
    GET: /users
